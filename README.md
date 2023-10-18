@@ -27,3 +27,9 @@ go install
 ```
 Options: [list|add|complete|delete]
 ```
+
+- Example:
+
+```
+go main.go list
+```
