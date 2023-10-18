@@ -1,5 +1,5 @@
 # GO tasks CRUD basics operations
-
+A simple Go application that allows you to perform basic CRUD operations via the command line interface (CMD) for task management.
 ### Installation and Configuration
 
 Follow the steps below to set up and run the application in your local environment:
@@ -13,7 +13,7 @@ git clone https://github.com/Juudini/gotasks
 2. Navigate to the project directory:
 
 ```
-cd CODERHOUSE_BACKEND
+cd gotasks
 ```
 
 3. Install project dependencies:
